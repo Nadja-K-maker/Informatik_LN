@@ -2,7 +2,7 @@
 
 ## Projektidee
 
-Wir untersuchen, wo in den letzten 10 Jahren die Fertilitätsrate am meisten zugenommen hat und wo sie abgenommen hat. Und recherchieren mögliche Gründe dafür
+Wir untersuchen, in welchen zehn Länder von 1980 bis 2023 die Fertalitätsrate am meisten abgenommen hat und recherchieren möglich Gründe dafür. 
 
 ## Fertilitätsrate
 
@@ -14,4 +14,5 @@ Am Projekte arbeiten
 - Silja Häsler (haeslsil@students.zhaw.ch)
 - Melina Kraus (krausme1@students.zhaw.ch)
 - Nadja Kuhn (kuhnnad1@students.zhaw.ch)
+
 
