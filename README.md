@@ -14,5 +14,3 @@ Am Projekte arbeiten
 - Silja Häsler (haeslsil@students.zhaw.ch)
 - Melina Kraus (krausme1@students.zhaw.ch)
 - Nadja Kuhn (kuhnnad1@students.zhaw.ch)
-
-
